@@ -3,7 +3,7 @@ exactly what the repository says it is
 
 <html>
 <head>
-  <title> welcome!</title>
+  <p> welcome!</p>
 </head>
 <body>
   <p>Coming Soon!</p>
