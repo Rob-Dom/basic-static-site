@@ -6,6 +6,6 @@ exactly what the repository says it is
   <p> welcome!</p>
 </head>
 <body>
-  <p>Coming Soon!</p>
+  <p>Site Coming Soon!</p>
 </body>
 </html> 
