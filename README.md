@@ -1,10 +1,11 @@
 # basic-static-site
 exactly what the repository says it is 
 
+<!doctype html>
 <html>
 <head>
 </head>
 <body>
-  Coming Soon!
+  <p>Coming Soon!</p>
 </body>
 </html> 
